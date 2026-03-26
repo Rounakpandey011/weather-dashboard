@@ -109,8 +109,7 @@ src/
 ---
 
 ## 🌐 Live Demo
-
-(Add deployed link here)
+https://weather-dashboard-theta-eight.vercel.app/
 
 ---
 
